@@ -43,13 +43,10 @@ else:
 global syn
 def header():
 	print(CRED+''' _              _           
-| |_ _   _ _ __| |__   ___  
-| __| | | | '__| '_ \ / _ \ 
-| |_| |_| | |  | |_) | (_) |
- \__|\__,_|_|  |_.__/ \___/ 
+plvq
 	''')
 	print(CRED+"[+] Instagram Turbo v" + version)
-	print(CRED+"[-] Developed by underscores#0001")
+	print(CRED+"[-] Developed by plvq")
 	print(WHITE+"-------------------------------------------------------"+YELLOW)
 
 def getproxy(file):
